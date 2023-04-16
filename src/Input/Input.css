@@ -1,0 +1,23 @@
+.input {
+  margin: 10px;
+  height: 5%;
+}
+
+form {
+  display: flex;
+  align-items: center;
+}
+.inputarea {
+  margin: 5px;
+  padding: 5px;
+  width: 94%;
+  height: 100%;
+  outline: none;
+  border: none;
+  border-radius: 5px;
+}
+
+.sendBtn {
+  background: none;
+  border: none;
+}
